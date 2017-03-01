@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Created by https://www.gitignore.io/api/node
 
 ### Node ###
+=======
+>>>>>>> b9017eb6ca292565dc137cbfa2cc8ecdab73e523
 # Logs
 logs
 *.log
@@ -17,6 +20,12 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 
+<<<<<<< HEAD
+=======
+# nyc test coverage
+.nyc_output
+
+>>>>>>> b9017eb6ca292565dc137cbfa2cc8ecdab73e523
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
@@ -35,9 +44,12 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+<<<<<<< HEAD
 
 # IDE
 .idea
 
 # Static files
 public/
+=======
+>>>>>>> b9017eb6ca292565dc137cbfa2cc8ecdab73e523
